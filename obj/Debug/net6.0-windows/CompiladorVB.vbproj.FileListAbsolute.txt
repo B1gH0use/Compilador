@@ -1,0 +1,17 @@
+C:\Develop\Projects\CompiladorVB\bin\Debug\net6.0-windows\CompiladorVB.exe
+C:\Develop\Projects\CompiladorVB\bin\Debug\net6.0-windows\CompiladorVB.deps.json
+C:\Develop\Projects\CompiladorVB\bin\Debug\net6.0-windows\CompiladorVB.runtimeconfig.json
+C:\Develop\Projects\CompiladorVB\bin\Debug\net6.0-windows\CompiladorVB.dll
+C:\Develop\Projects\CompiladorVB\bin\Debug\net6.0-windows\CompiladorVB.pdb
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.vbproj.AssemblyReference.cache
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.FormMain.resources
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.vbproj.GenerateResource.cache
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.AssemblyInfoInputs.cache
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.AssemblyInfo.vb
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.vbproj.CoreCompileInputs.cache
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.dll
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\refint\CompiladorVB.dll
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.pdb
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\CompiladorVB.genruntimeconfig.cache
+C:\Develop\Projects\CompiladorVB\obj\Debug\net6.0-windows\ref\CompiladorVB.dll
